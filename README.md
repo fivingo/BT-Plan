@@ -1,8 +1,9 @@
 현재 테스트 중입니다.
 ====================
-BT-Plan
+PROJECT BT-Plan
 -------
-# Code Monkeys
+TEAM Code Monkeys
+------------
 ## 팀장 오경덕
 #### 역할
 ### 기획 및 일정관리 등 프로젝트 총괄
