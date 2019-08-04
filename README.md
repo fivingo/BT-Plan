@@ -1,7 +1,5 @@
-현재 테스트 중입니다.
-====================
 PROJECT BT-Plan
--------
+================
 TEAM Code Monkeys
 ------------
 ## 팀장 오경덕
@@ -10,3 +8,4 @@ TEAM Code Monkeys
 ### 팀단위 공유 웹하드
 <hr>
 <hr>
+![package](./Image/package.JPG)
