@@ -7,5 +7,4 @@ TEAM Code Monkeys
 ### 기획 및 일정관리 등 프로젝트 총괄
 ### 팀단위 공유 웹하드
 <hr>
-<hr>
 ![package](./Image/package.JPG)
