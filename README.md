@@ -11,8 +11,8 @@ TEAM Code Monkeys
 ### 패키지 구조
 ![package](./Image/package.JPG)
 ### 기본 웹폴더 화면
-![package](./Image/base.JPG)
+![base](./Image/base.JPG)
 ### 인덱스 화면
-![package](./Image/index1.JPG)
-![package](./Image/index2.JPG)
-![package](./Image/index3.JPG)
+![index1](./Image/index1.JPG)
+![index2](./Image/index2.JPG)
+![index3](./Image/index3.JPG)
