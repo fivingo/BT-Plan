@@ -10,7 +10,7 @@ public class MailAuth extends Authenticator{
    
    public MailAuth() {
        String mail_id = "구글이메일";
-       String mail_pw = "qmffn%RE1ngg";
+       String mail_pw = "구글비밀번호";
        
        pa = new PasswordAuthentication(mail_id, mail_pw);
    }
